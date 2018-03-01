@@ -15,6 +15,89 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000159 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000159">
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000135"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000133"/>
+        <rdfs:comment xml:lang="en">Two characters who are in a romantic relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Dates</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000165 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000165">
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000136"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000138"/>
+        <rdfs:comment xml:lang="en">Two characters who are in a romantic relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Dates</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000166 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000166">
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000139"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000144"/>
+        <rdfs:comment xml:lang="en">Two characters who are in a romantic relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Dates</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000167 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000167">
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000136"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000135"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000139"/>
+        <rdfs:comment xml:lang="en">Characters who have a non-romantic close relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">IsFriendsWith</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000168 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000168">
+        <rdfs:comment xml:lang="en">Two characters who are in a romantic relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Dates</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000169 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000169">
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000134"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000137"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000140"/>
+        <rdfs:comment xml:lang="en">Characters who have a non-romantic close relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">IsFriendsWith</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Classes
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -238,6 +321,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000076">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Dave Allen was born in 1958 in Naperville, Illinois, USA and graduated from Augustana College in Rock Island, IL. He is an actor and writer, known for Freaks and Geeks (1999), Crossroads (2002), Bad Teacher (2011), and Sex Tape (2014).</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Information retrieved from IMDb: http://www.imdb.com/name/nm0020405/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Allen,Dave</rdfs:label>
     </owl:Class>
     
@@ -247,6 +332,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000077">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Becky Ann Baker was born on February 17, 1953 in Fort Knox, Kentucky, USA as Becky Ann Gelke. She is an actress, known for A Simple Plan (1998), Men in Black (1997) and Spider-Man 3 (2007). She has been married to Dylan Baker since 1990. They have one child.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Information retrieved from IMDb: http://www.imdb.com/name/nm0048250/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Baker,BeckyAnn</rdfs:label>
     </owl:Class>
     
@@ -428,6 +515,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000115">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">&quot;Studious &apos;mathlete&apos; Lindsay starts hanging out with a group of burnouts, worrying her parents. Lindsay&apos;s brother, Sam, struggles to confront a bully.&quot;</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">1.Pilotepisode</rdfs:label>
     </owl:Class>
     
@@ -437,6 +526,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000116">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">2.BeersandWeirs</rdfs:label>
     </owl:Class>
     
@@ -446,6 +536,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000117">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">3.TricksandTreats</rdfs:label>
     </owl:Class>
     
@@ -455,6 +546,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000118">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">4.KimKellyIsMyFriend</rdfs:label>
     </owl:Class>
     
@@ -464,6 +556,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000119">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">5.TestsandBreasts</rdfs:label>
     </owl:Class>
     
@@ -473,6 +566,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000120">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">6.I’mWiththeBand</rdfs:label>
     </owl:Class>
     
@@ -482,6 +576,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000121">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">7.CardedandDiscarded</rdfs:label>
     </owl:Class>
     
@@ -491,6 +586,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000122">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">8.GirlfriendsandBoyfriends</rdfs:label>
     </owl:Class>
     
@@ -500,6 +596,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000123">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">9.We’veGotSpirit</rdfs:label>
     </owl:Class>
     
@@ -509,6 +606,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000124">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">10.TheDiary</rdfs:label>
     </owl:Class>
     
@@ -518,6 +616,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000125">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">11.LooksandBooks</rdfs:label>
     </owl:Class>
     
@@ -527,6 +626,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000126">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">12.TheGarageDoor</rdfs:label>
     </owl:Class>
     
@@ -536,6 +636,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000127">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">13.Chokin’andTokin’</rdfs:label>
     </owl:Class>
     
@@ -545,6 +646,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000128">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">14.DeadDogsandGymTeachers</rdfs:label>
     </owl:Class>
     
@@ -554,6 +656,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000129">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">15.NoshingandMoshing</rdfs:label>
     </owl:Class>
     
@@ -563,6 +666,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000130">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:comment xml:lang="en">&quot;Sam asks Cindy to go to a party after she tells Bill that she has a crush on Sam. Nick stays with the Weirs following a confrontation with his father.&quot;</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">16.SmoochingandMooching</rdfs:label>
     </owl:Class>
     
@@ -572,6 +677,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000131">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">17.TheLittleThings</rdfs:label>
     </owl:Class>
     
@@ -581,6 +687,7 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000132">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">18.DiscosandDragons</rdfs:label>
     </owl:Class>
     
@@ -590,6 +697,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000133">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
+        <rdfs:comment xml:lang="en">Following her grandmother’s death, Lindsay (played by Linda Cardellini) begins the transition from geek (mathlete) to freak (like her crush, Daniel Desario). A high school junior who has grown tired of teenage pretenses, she begins to question the purpose of life and if being good truly matters. One of her first lines in the pilot episode: “Man, I hate high school” aptly sets the stage for the rest of the show.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Weir,Lindsay(LindaCardellini)</rdfs:label>
     </owl:Class>
     
@@ -599,6 +708,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000134">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
+        <rdfs:comment xml:lang="en">Lindsay’s geek younger brother, Sam (played by John Francis Daley) is a freshman in high school and the one who is humiliated (mainly by his nemesis Alan White) and picked on the most. His crew basically consists of his two best friends, Bill Haverchuck and Neil Schweiber, who are just as awkward as he is and dread gym class almost as much as he does. He crushes pretty hard on Cindy Saunders, but soon learns she’s not everything he had built her up to be.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Weir,Sam(JohnFrancisDaley)</rdfs:label>
     </owl:Class>
     
@@ -608,6 +719,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000135">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
+        <rdfs:comment xml:lang="en">Part of the freaks, Nick (played by Jason Segel) is an aspiring rock and roll drummer whose favourite bands include Led Zeppelin and Rush. Honest to a fault, he wears his heart on his sleeve. He and Lindsay date briefly and although it doesn’t work out, he continues to carry a flame for her, which sometimes borders on obsession. Brought up by a strict, military father, Nick was once a promising athlete, until he fell into the freak crowd and started smoking pot.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Andopolis,Nick(JasonSegel)</rdfs:label>
     </owl:Class>
     
@@ -617,6 +730,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000136">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
+        <rdfs:comment xml:lang="en">Part of the freaks, Daniel (played by James Franco) is the school bad boy (held back at least one grade) who Lindsay originally has a crush on and is the catalyst for her introduction to the freak group. He is the on and off (mostly on) boyfriend of Kim Kelly. While appearing tough and charming, he is also insecure in some respects. Although not book smart, Daniel seems to have a deep emotional intelligence.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Desario,Daniel(JamesFranco)</rdfs:label>
     </owl:Class>
     
@@ -626,6 +741,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000137">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
+        <rdfs:comment xml:lang="en">A quintessential geek and easily the most physically awkward character, Bill (played by Martin Starr) is one of Sam Weir’s best friends and is a genuine fan of the TV show Dallas. He has a peanut allergy, in a time when peanut allergies were uncommon, unrecognized and peanuts weren’t banned from school, Bill suffers a life-threatening situation due to the actions of Alan White. His father left when he was young, and when his mom finds new love, Bill really struggles with the man that she selects.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Haverchuck,Bill(MartinStarr)</rdfs:label>
     </owl:Class>
     
@@ -635,6 +752,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000138">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
+        <rdfs:comment xml:lang="en">Part of the freaks, Kim (played by Busy Philipps) is a hot-tempered, bully, but despite her tough upbringing, she has a heart of gold when it comes to those she cares about. She is the on and off (mostly on) girlfriend of Daniel Desario. Suspicious of Lindsay’s intentions, she is not welcoming at first, but she eventually warms up and a friendship begins to blossom.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Kelly,Kim(BusyPhilipps)</rdfs:label>
     </owl:Class>
     
@@ -644,6 +763,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000139">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
+        <rdfs:comment xml:lang="en">Part of the freaks, Ken (played by Seth Rogan) is sarcastic and cynical and is the least featured main character, until the story arc where he starts dating Amy Edwards.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Miller,Ken(SethRogan)</rdfs:label>
     </owl:Class>
     
@@ -653,6 +774,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000140">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
+        <rdfs:comment xml:lang="en">A witty geek from a wealthy family, Neil (played by Samm Levine) one of Sam Weir’s best friends. It becomes evident that Neil has an unrequited love for Lindsay Weir. Although appearing to have an idyllic family life, Neil is crushed when he discovers is beloved father is having an affair. Despite his confidence and being the most secure with himself, following what he perceives to be a betrayal on his father’s part, he picks up ventriloquism to get attention.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Schweiber,Neil(SammLevine)</rdfs:label>
     </owl:Class>
     
@@ -662,6 +785,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000141">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
+        <rdfs:comment xml:lang="en">A bit of a curmudgeon, Harold (played by Joe Flaherty) is a sports apparel business owner and is the father of Lindsay and Sam Weir. While seemingly unengaged, he cares deeply for his whole family.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Weir,Harold(JoeFlaherty)</rdfs:label>
     </owl:Class>
     
@@ -671,6 +796,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000142">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
+        <rdfs:comment xml:lang="en">A homemaker struggling to adjust to her kids growing up, Jean (played by Becky Ann Baker) is the loving and attentive mother of Lindsay and Sam.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Weir,Jean(BeckyAnnBaker)</rdfs:label>
     </owl:Class>
     
