@@ -26,11 +26,12 @@
     <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000159 -->
 
     <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000159">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000135"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000133"/>
-        <rdfs:comment xml:lang="en">Two characters who are in a romantic relationship.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Two characters who were or are in a romantic relationship.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Dates</rdfs:label>
+        <rdfs:label xml:lang="en">hasDated</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -38,11 +39,12 @@
     <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000165 -->
 
     <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000165">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000136"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000138"/>
-        <rdfs:comment xml:lang="en">Two characters who are in a romantic relationship.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Two characters who were at one time in a romantic relationship.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Dates</rdfs:label>
+        <rdfs:label xml:lang="en">hasDated</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -50,11 +52,12 @@
     <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000166 -->
 
     <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000166">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000139"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000144"/>
-        <rdfs:comment xml:lang="en">Two characters who are in a romantic relationship.</rdfs:comment>
+        <rdfs:comment xml:lang="en">Two characters who were or are in a romantic relationship.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Dates</rdfs:label>
+        <rdfs:label xml:lang="en">hasDated</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -62,12 +65,13 @@
     <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000167 -->
 
     <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000167">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000136"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000135"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000139"/>
         <rdfs:comment xml:lang="en">Characters who have a non-romantic close relationship.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">IsFriendsWith</rdfs:label>
+        <rdfs:label xml:lang="en">isFriendsWith</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -75,22 +79,134 @@
     <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000168 -->
 
     <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000168">
-        <rdfs:comment xml:lang="en">Two characters who are in a romantic relationship.</rdfs:comment>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000134"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000149"/>
+        <rdfs:comment xml:lang="en">Two characters who were or are in a romantic relationship.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Dates</rdfs:label>
+        <rdfs:label xml:lang="en">hasDated</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000169 -->
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000170 -->
 
-    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000169">
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000170">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000135"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000136"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000139"/>
+        <rdfs:comment xml:lang="en">Characters who have a non-romantic close relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">isFriendsWith</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000171 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000171">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000139"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000135"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000136"/>
+        <rdfs:comment xml:lang="en">Characters who have a non-romantic close relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">isFriendsWith</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000173 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000173">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000137"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000134"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000140"/>
+        <rdfs:comment xml:lang="en">Characters who have a non-romantic close relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">isFriendsWith</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000174 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000174">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000134"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000137"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000140"/>
         <rdfs:comment xml:lang="en">Characters who have a non-romantic close relationship.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">IsFriendsWith</rdfs:label>
+        <rdfs:label xml:lang="en">isFriendsWith</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000175 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000175">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000140"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000134"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000137"/>
+        <rdfs:comment xml:lang="en">Characters who have a non-romantic close relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">isFriendsWith</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000176 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000176">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000133"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000135"/>
+        <rdfs:comment xml:lang="en">Two characters who were or are in a romantic relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">hasDated</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000177 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000177">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000138"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000136"/>
+        <rdfs:comment xml:lang="en">Two characters who were or are in a romantic relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">hasDated</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000178 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000178">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000144"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000139"/>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">Two characters who were or are in a romantic relationship.</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">hasDated</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000179 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000179">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000149"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000134"/>
+        <rdfs:comment xml:lang="en">Two characters who were or are in a romantic relationship.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">hasDated</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -210,7 +326,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000064">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
         <rdfs:comment>&quot;The California On Location Awards honors the best Location Professionals in entertainment&quot; (para. 1).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">California On Location Awards - California On Location Awards. (n.d.). Welcome to the California On Location Awards. Retrieved from http://www.californiaonlocationawards.com/home.html</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">Quote retrieved from http://www.californiaonlocationawards.com/home.html</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">CaliforniaOnLocationAwards(COLA)</rdfs:label>
     </owl:Class>
     
@@ -221,7 +337,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000065">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000064"/>
         <rdfs:comment xml:lang="en">Location Professional of the Year – Television (2001) for Deborah Laub</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">IMDd. (2018). Freaks and Geeks (1999-2000) Awards. Retrieved from http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">Retrieved from IMDb http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">LocationProfessionaloftheYear</rdfs:label>
     </owl:Class>
     
@@ -322,7 +438,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000076">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Dave Allen was born in 1958 in Naperville, Illinois, USA and graduated from Augustana College in Rock Island, IL. He is an actor and writer, known for Freaks and Geeks (1999), Crossroads (2002), Bad Teacher (2011), and Sex Tape (2014).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">Information retrieved from IMDb: http://www.imdb.com/name/nm0020405/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0020405/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Allen,Dave</rdfs:label>
     </owl:Class>
     
@@ -333,7 +449,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000077">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Becky Ann Baker was born on February 17, 1953 in Fort Knox, Kentucky, USA as Becky Ann Gelke. She is an actress, known for A Simple Plan (1998), Men in Black (1997) and Spider-Man 3 (2007). She has been married to Dylan Baker since 1990. They have one child.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">Information retrieved from IMDb: http://www.imdb.com/name/nm0048250/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0048250/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Baker,BeckyAnn</rdfs:label>
     </owl:Class>
     
@@ -343,6 +459,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000078">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Steve Bannos was born on August 5, 1960 in Chicago, Illinois, USA and studied BFA in Acting at Drake University. He is an actor and writer, known for Freaks and Geeks (1999), Love (2016) and Ned&apos;s Declassified School Survival Guide (2004).</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0052446/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Bannos,Steve</rdfs:label>
     </owl:Class>
     
@@ -352,6 +470,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000079">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Jessica Campbell was born on October 30, 1982 in Tulsa, Oklahoma, USA. She is known for her work on Election (1999), In the Best Interest of the Children (1992) and The Safety of Objects (2001). She has been married to Daniel Papkin since August 1, 2009.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0004795/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Campbell,Jessica</rdfs:label>
     </owl:Class>
     
@@ -361,6 +481,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000080">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Linda Edna Cardellini was born on June 25, 1975 in Redwood City, California but grew up in the San Francisco Bay area, California. She Linda has a Bachelor of Arts degree in Theatre from Loyola Marymount University, and completed a summer study program at the National Theatre in London. She is known for her work in Freaks and Geeks (1999) for she which won an Emmy Award in the Category of &quot;Outstanding Casting for a Comedy Series&quot; (connect to awards), Legally Blonde (2001) and Brokeback Mountain (2005). She has a daughter named Lilah-Rose.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0004802/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Cardellini,Linda</rdfs:label>
     </owl:Class>
     
@@ -370,6 +492,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000081">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">John Francis Daley was born on July 20, 1985 in Wheeling, Illinois, USA.  He is known for his work on Freaks and Geeks (1999) and Bones (2005). Now enjoying a successful screenwriting career, with his writing partner, Jonathan Goldstein, such as the hit, Horrible Bosses (2011). As well as being an actor and screenwriter, John is also a musician, playing keyboard and singing lead vocals in his band, Dayplayer. He married Corinne Kingsbury and in 2017 they have a son, Basil.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0197855/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Daley,JohnFrancis</rdfs:label>
     </owl:Class>
     
@@ -379,6 +503,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000082">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Joe Flaherty was born on June 21, 1941 in Pittsburgh, Pennsylvania, USA as Joseph O&apos;Flaherty. He is an actor and writer, known for Happy Gilmore (1996), Back to the Future Part II (1989) and SCTV Network (1981). He is a faculty member of Humber College&apos;s Comedy: Writing &amp; Performance course.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0280886/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Flaherty,Joe</rdfs:label>
     </owl:Class>
     
@@ -388,6 +514,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000083">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">James Franco was born April 19, 1978 in Palo Alto, California. He may perhaps be one of the most academically accomplished actors (an &quot;extreme scholar&quot;) in Hollywood history: besides his BFA in English from UCLA, he has two MFA degrees - both in writing - from Columbia and Brooklyn College, and a third MFA, in film, from New York University. Known for his breakthrough starring role on Freaks and Geeks (1999), the TNT made-for-television movie, James Dean (2001), Spider-Man (2002) and The Disaster Artist (2017), directed by himself. He has his own production company - Rabbit Bandini Productions.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0290556/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Franco,James</rdfs:label>
     </owl:Class>
     
@@ -397,6 +525,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000084">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Sarah Hagan was born on May 24, 1984 in Austin, Texas, USA as Sarah Margaret Hagan. She is known for her work on Freaks and Geeks (1999), Buffy the Vampire Slayer (1997) and Jess + Moss (2011).</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0353247/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Hagan,Sarah</rdfs:label>
     </owl:Class>
     
@@ -406,6 +536,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000085">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Chauncey Leopardi was born on June 14, 1981. He is an actor, known for The Sandlot (1993), Casper (1995) and Father of the Bride (1991).</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0503140/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Leopardi,Chauncey</rdfs:label>
     </owl:Class>
     
@@ -415,6 +547,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000086">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Samm Levine was born on March 12, 1982 in Chicago, Illinois, USA. He known for Freaks and Geeks (1999), Undeclared (2001) and Inglourious Basterds (2009).</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0505949/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Levine,Samm</rdfs:label>
     </owl:Class>
     
@@ -424,6 +558,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000087">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Natasha Melnick was born on April 10, 1984 in Los Angeles, California, USA. She is an actress, known for Orange County (2002), Freaks and Geeks (1999) and The Parent Trap (1998).</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0578184/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Melnick,Natasha</rdfs:label>
     </owl:Class>
     
@@ -433,6 +569,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000088">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Jerry Messing was born on April 3, 1986 in Los Angeles County, California, USA as Jerome Edward Trager Messing. He is an actor, known for Freaks and Geeks (1999), Even Stevens (2000) and Addams Family Reunion (1998).</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0582202/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Messing,Jerry</rdfs:label>
     </owl:Class>
     
@@ -442,6 +580,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000089">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Busy Philipps was born Elizabeth Jean Philipps on June 25, 1979 in Illinois, US. Best known for Freaks and Geeks (1999), Dawson&apos;s Creek (1998) Cougar Town (2009). She has two daughters with her husband Marc Silverstein - Birdie Leigh Silverstein and Cricket Pearl Silverstein.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0005311/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Philipps,Busy</rdfs:label>
     </owl:Class>
     
@@ -451,6 +591,9 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000090">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Seth Rogen was born on April 15, 1982 in Vancouver, British Columbia.
+He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked Up (2007) and Superbad (2007). A talented voice artist, Rogen is in the animated films Horton Hears a Who! (2008) and Kung Fu Panda (2008). Rogan is married Lauren Miller-Rogen in October 2011.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">https://www.imdb.com/name/nm0736622/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Rogan,Seth</rdfs:label>
     </owl:Class>
     
@@ -460,6 +603,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000091">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Jason Segel was born on January 18, 1980 in Los Angeles, California, USA. Known for Freaks and Geeks (1999), How I Met Your Mother (2005), Forgetting Sarah Marshall (2008) which he wrote and starred in and The Muppets (2011), which he cowrote and starred in. Segel is also a musician and songwriter.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">https://www.imdb.com/name/nm0781981/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Segel,Jason</rdfs:label>
     </owl:Class>
     
@@ -469,6 +614,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000092">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Stephen Lea Sheppard was born on January 26, 1983. He is an actor, known for The Royal Tenenbaums (2001), Freaks and Geeks (1999) and The Begun of Tigtone (2014).</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">https://www.imdb.com/name/nm0791991/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Sheppard,StephenLea</rdfs:label>
     </owl:Class>
     
@@ -478,6 +625,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000093">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Martin Starr was born on July 30, 1982 in Santa Monica, California, USA. He is an actor and producer, known for Freaks and Geeks (1999), Party Down (2009) and Silicon Valley (2014).</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">https://www.imdb.com/name/nm0771414/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Starr,Martin</rdfs:label>
     </owl:Class>
     
@@ -487,6 +636,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000094">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
+        <rdfs:comment xml:lang="en">Thomas F. Wilson was born on in Philadelphia, Pennsylvania, USA. Wilson is known for the Back to the Future (1985) trilogy and Freaks and Geeks (1999). Wilson has enjoyed a successful career as an actor, writer and comedian for over 20 years. Wilson is married to Carline Wilson and has four children: Anna May, Emily, Gracie and Tommy.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">https://www.imdb.com/name/nm0001855/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Wilson,ThomasF.</rdfs:label>
     </owl:Class>
     
