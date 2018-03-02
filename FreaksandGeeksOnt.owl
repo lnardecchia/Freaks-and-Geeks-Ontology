@@ -211,6 +211,267 @@
     
 
 
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000197 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000197">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000183"/>
+        <rdfs:label xml:lang="en">hasWon</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000198 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000198">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000183"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096"/>
+        <rdfs:label xml:lang="en">wasWonBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000199 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000199">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000181"/>
+        <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000200 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000200">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000181"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096"/>
+        <rdfs:label xml:lang="en">hadNominee</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000201 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000201">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000193"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:label xml:lang="en">wasWonBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000202 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000202">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000193"/>
+        <rdfs:label xml:lang="en">hasWon</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000203 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000203">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000184"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000131"/>
+        <rdfs:label xml:lang="en">hadNominee</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000204 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000204">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000131"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000184"/>
+        <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000205 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000205">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000115"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000185"/>
+        <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000206 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000206">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000069"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000115"/>
+        <rdfs:label xml:lang="en">hadNominee</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000207 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000207">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000116"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000186"/>
+        <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000208 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000208">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000186"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000116"/>
+        <rdfs:label xml:lang="en">hadNominee</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000209 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000209">
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000080"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000188"/>
+        <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000210 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000210">
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000188"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000080"/>
+        <rdfs:label xml:lang="en">hadNominee</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000211 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000211">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000084"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000194"/>
+        <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000212 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000212">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000194"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000084"/>
+        <rdfs:label xml:lang="en">hadNominee</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000213 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000213">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000081"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000195"/>
+        <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000214 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000214">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000195"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000081"/>
+        <rdfs:label xml:lang="en">hadNominee</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000215 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000215">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000191"/>
+        <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000216 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000216">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000191"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:label xml:lang="en">hadNominee</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000217 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000217">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000190"/>
+        <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000218 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000218">
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000190"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:label xml:lang="en">hadNominee</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000219 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000219">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000189"/>
+        <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000220 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000220">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000189"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:label xml:lang="en">hadNominee</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -325,8 +586,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000064">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
-        <rdfs:comment>&quot;The California On Location Awards honors the best Location Professionals in entertainment&quot; (para. 1).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">Quote retrieved from http://www.californiaonlocationawards.com/home.html</rdfs:isDefinedBy>
+        <rdfs:comment>The California On Location Awards honors the best Location Professionals in entertainment.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">California On Location Awards (COLA): http://www.californiaonlocationawards.com/home.html</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">CaliforniaOnLocationAwards(COLA)</rdfs:label>
     </owl:Class>
     
@@ -336,9 +597,9 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000065">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000064"/>
-        <rdfs:comment xml:lang="en">Location Professional of the Year – Television (2001) for Deborah Laub</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from IMDb http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">LocationProfessionaloftheYear</rdfs:label>
+        <rdfs:comment xml:lang="en">Winner: Location Professional of the Year – Television (2001) for Deborah Laub</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">LocationProfessionaloftheYear(2001)</rdfs:label>
     </owl:Class>
     
 
@@ -347,6 +608,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000066">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
+        <rdfs:comment xml:lang="en">CDGA celebrates excellence in film, television, and short-form Costume Design.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Costume Designers Guild Awards (CDGA): http://costumedesignersguild.com/awards-2018</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">CostumeDesignersGuildAwards(CDGA)</rdfs:label>
     </owl:Class>
     
@@ -356,6 +619,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000067">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
+        <rdfs:comment xml:lang="en">The Emmy Awards recognize excellence within various areas of television and emerging media.The Emmy Awards are administered by three sister organizations, which focus on various sectors of television and broadband programming: Television Academy (primetime); National Academy of Television Arts &amp; Sciences (daytime, sports, news and documentary); and International Academy of Television Arts &amp; Sciences (international). The Primetime Emmy Award is a symbol of peer recognition from over 20,000 Television Academy members. Each member casts a ballot for the category of competition in their field of expertise</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Television Academy: https://www.emmys.com/awards</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">EmmyAwards</rdfs:label>
     </owl:Class>
     
@@ -365,6 +630,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000068">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
+        <rdfs:comment xml:lang="en">The GLAAD Media Awards recognize and honor media for their fair, accurate and inclusive representations of the lesbian, gay, bisexual, transgender and queer community and the issues that affect their lives.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">GLAAD Media Awards: https://www.glaad.org/mediaawards</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">GLAADMediaAwards</rdfs:label>
     </owl:Class>
     
@@ -374,6 +641,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000069">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
+        <rdfs:comment xml:lang="en">With the glamour and style of a Hollywood movie premiere, the MUAHS Guild Awards attracts celebrity talent, filmmakers, producers, other make-up and hair industry professionals and Guild members. The Make-Up Artists &amp; Hair Stylists Guild (IATSE Local 706) is the official labor union for make-up artists and hair stylists in Film, television, stage, commercials, digital media and Disneyland Theme Park. These artistic professionals have created the iconic looks for Hollywood’s most memorable characters and stars, and have influenced major trends in the consumer industry.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Hollywood Makeup Artists and Hair Stylist Guild Awards: https://www.muahsawards.com/</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">HollywoodMakeupArtistandHairStylistGuildAwards(MUAHS)</rdfs:label>
     </owl:Class>
     
@@ -383,6 +652,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000070">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
+        <rdfs:comment xml:lang="en">Each year the MPSE presents &quot;The Golden Reel Awards,&quot; in which we acknowledge the year&apos;s best work in the various areas of sound editing: Dialogue, ADR, Effects, Foley and Music.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Motion Picture Sound Editors (MPSE): http://www.mpse.org</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">MotionPictureSoundEditors(MPSE)USAGoldenReelAward</rdfs:label>
     </owl:Class>
     
@@ -392,6 +663,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000071">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
+        <rdfs:comment xml:lang="en">NCLR ALMA Awards stands out as the only awards show on English language television to honor the contributions of outstanding Latino artists and entertainers in television, film and music—mixing entertainment with a celebration of exceptional achievement, while underscoring the need to change popular perceptions of Hispanic Americans in media.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">The NCLR ALMA Awards: http://www.almaawards.com/about-us</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">NationalCouncilofLaRazaAmericanLatinoMediaArts(NCLRALMA)Awards</rdfs:label>
     </owl:Class>
     
@@ -401,6 +674,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000072">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
+        <rdfs:comment xml:lang="en">We recognize the best in motion pictures and television.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Online Film &amp; Television Association: http://www.oftaawards.com</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">OnlineFilm&amp;TelevisionAssociation(OFTA)Award</rdfs:label>
     </owl:Class>
     
@@ -410,6 +685,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000073">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
+        <rdfs:comment xml:lang="en">Since 1984, the members of the TCA have voted for outstanding achievements in television. As professional consumers of the medium, TV critics are often the first to spot exemplary work in television. Time and again their choices have anticipated later honors from the Emmy and Peabody award panels. In 2002 the TCA began honoring the iconic figures in TV with its Heritage Award. The TCA Awards are held during the July press tour.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Television Critics Association (TCA): http://tvcritics.org/tca-awards</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">TelevisionCriticsAssociation(TCA)Awards</rdfs:label>
     </owl:Class>
     
@@ -419,6 +696,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000074">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
+        <rdfs:comment xml:lang="en">Established in 1978, the Young Artist Awards (YAA) is Hollywood&apos;s longest running awards show that recognizes and honors young talent. Through year-round support, participants are primed for greater achievements in their craft. The Young Artist Awards is Presented by The Young Artist Awards Academy (YAAA), which was founded by The Hollywood Foreign Press Association&apos;s (Golden Globes) recognized historian, Maureen Dragone. The foundation provides young artists with mentorship, experience, and accolades that are otherwise unavailable to young performers.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Young Artist Awards: https://www.youngartistawards.org/about</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">YoungArtistAwards</rdfs:label>
     </owl:Class>
     
@@ -428,6 +707,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000075">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055"/>
+        <rdfs:comment xml:lang="en">Presented by The Hollywood Reporter, it honored young American actors and actresses from ages 6–18 in their work in film, television, stage and music. Winners were chosen via a poll of 3,500 entertainment industry insiders who read The Hollywood Reporter. The awards ceremony was held from 1995 until 2000; there was no ceremony in 1996.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Wikipedia: https://en.wikipedia.org/wiki/YoungStar_Award</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">YoungStarAward</rdfs:label>
     </owl:Class>
     
@@ -1096,6 +1377,193 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:comment xml:lang="en">Also known as a dramedy, this is a genre that combines elements of both a comedy and a drama. It can change from episode to episode or even be combined in a single episode or scene. Freaks and Geeks falls under this genre.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Comedy/Drama</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000180 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000180">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000066"/>
+        <rdfs:comment xml:lang="en">Nominee: Outstanding Period/Fantasy Television Series (2001) for Debra McGuide</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">OutstandingPeriod/FantasyTelevisionSeries(2001)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000181 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000181">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000067"/>
+        <rdfs:comment xml:lang="en">Nominee: Outstanding Writing for a Comedy Series (2001) for Paul Feig</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Television Academy: https://www.emmys.com/shows/freaks-and-geeks</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">OutstandingWritingforaComedySeries(2001)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000182 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000182">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000067"/>
+        <rdfs:comment xml:lang="en">Nominee: Outstanding Casting for a Comedy Series (2000) for Alison Jones, Coreen Mayrs and Jill Greenberg Sands</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Television Academy: https://www.emmys.com/shows/freaks-and-geeks</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">OutstandingCastingforaComedySeries(2000)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000183 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000183">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000067"/>
+        <rdfs:comment xml:lang="en">Winner: Outstanding Writing for a Comedy Series (2000) for Paul Feig</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Television Academy: https://www.emmys.com/shows/freaks-and-geeks</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">OutstandingWritingforaComedySeries(2000)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000184 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000184">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000068"/>
+        <rdfs:comment xml:lang="en">Nominee: Outstanding TV Individual Episode (In a Series Without a Regular Gay Character) (2001) for episode “The Little Things”</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">OutstandingTVIndividualEpisode(InaSeriesWithoutaRegularGayCharacter)(2001)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000185 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000185">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000069"/>
+        <rdfs:comment xml:lang="en">Nominee: Best Period Makeup – Television (for a Single Episode of a Regular Series – Sitcom, Drama or Daytime (2000) for Lisa Layman, David Syner and Joseph Regina for the pilot episode</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">BestPeriodMakeup–Television(foraSingleEpisodeofaRegularSeries–Sitcom,DramaorDaytime(2000)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000186 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000186">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000070"/>
+        <rdfs:comment xml:lang="en">Nominee: Best Sound Editing – Television Episodic – Music (2000) for Jonathan Karp for episode “Beers and Weirs”</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">BestSoundEditing–TelevisionEpisodic–Music(2000)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000187 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000187">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000071"/>
+        <rdfs:comment xml:lang="en">Nominee: Outstanding Director of a Comedy Series (2001) for Miguel Arteta</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">OutstandingDirectorofaComedySeries(2001)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000188 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000188">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000072"/>
+        <rdfs:comment xml:lang="en">Nominee: Best Actress in a New Comedy Series (2000) for Linda Cardellini</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">BestActressinaNewComedySeries(2000)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000189 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000189">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000073"/>
+        <rdfs:comment xml:lang="en">Nominee: Outstanding New Program of the Year (2000)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">OutstandingNewProgramoftheYear(2000)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000190 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000190">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000073"/>
+        <rdfs:comment xml:lang="en">Nominee: Outstanding Achievement in Drama (2000)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">OutstandingAchievementinDrama(2000)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000191 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000191">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000073"/>
+        <rdfs:comment xml:lang="en">Nominee: Heritage Award (2011)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/title/tt0193676/awards</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">HeritageAward(2011)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000192 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000192">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000074"/>
+        <rdfs:comment xml:lang="en">Nominee: Best Performance in a TV Series – Young Ensemble</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Wikipedia: https://en.wikipedia.org/wiki/Freaks_and_Geeks#Awards_and_nominations</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">BestPerformanceinaTVSeries–YoungEnsemble</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000193 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000193">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000074"/>
+        <rdfs:comment xml:lang="en">Winner: Best Family TV Series – Comedy</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Wikipedia: https://en.wikipedia.org/wiki/Freaks_and_Geeks#Awards_and_nominations</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">BestFamilyTVSeries–Comedy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000194 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000194">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000075"/>
+        <rdfs:comment xml:lang="en">Nominee: Best Young Actor/Performance in a Comedy TV Series for John Francis Daley</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Wikipedia: https://en.wikipedia.org/wiki/Freaks_and_Geeks#Awards_and_nominations</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">BestYoungActor/PerformanceinaComedyTVSeries</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000195 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000195">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000075"/>
+        <rdfs:comment xml:lang="en">Nominee: Best Young Actor/Performance in a Comedy TV Series for Sarah Hagan</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Wikipedia: https://en.wikipedia.org/wiki/Freaks_and_Geeks#Awards_and_nominations</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">BestYoungActor/PerformanceinaComedyTVSeries</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000196 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000196">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000075"/>
+        <rdfs:comment xml:lang="en">Nominee: Best Young Ensemble Cast – Television for the cast</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Wikipedia: https://en.wikipedia.org/wiki/Freaks_and_Geeks#Awards_and_nominations</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">BestYoungEnsembleCast–Television</rdfs:label>
     </owl:Class>
     
 
