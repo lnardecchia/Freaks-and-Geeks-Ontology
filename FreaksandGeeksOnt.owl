@@ -1230,7 +1230,11 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000059"/>
+<<<<<<< HEAD
         <rdfs:comment xml:lang="en">&quot;Paul Feig was born on September 17, 1962 in Mount Clemens, Michigan, USA. He is an actor and producer, known for Freaks and Geeks (1999), The Heat (2013) and Spy (2015). He has been married to Laurie Karon since September 23, 1994.&quot; (para. 3, 2018)</rdfs:comment>
+=======
+        <rdfs:comment xml:lang="en">&quot;Paul Feig was born on September 17, 1962 in Mount Clemens, Michigan, USA. He is an actor and producer, known for Freaks and Geeks (1999), The Heat (2013) and Spy (2015). He has been married to Laurie Karon since September 23, 1994.&quot; (para 3, 2018)</rdfs:comment>
+>>>>>>> master
         <rdfs:comment xml:lang="en">The one person who has a writing credit on all 18 episodes of the television series.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0082450/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
@@ -1243,7 +1247,11 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000115">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+<<<<<<< HEAD
         <rdfs:comment xml:lang="en">&quot;Studious &apos;mathlete&apos; Lindsay starts hanging out with a group of burnouts, worrying her parents. Lindsay&apos;s brother, Sam, struggles to confront a bully.&quot; (para. 3, n.d.)</rdfs:comment>
+=======
+        <rdfs:comment xml:lang="en">&quot;Studious &apos;mathlete&apos; Lindsay starts hanging out with a group of burnouts, worrying her parents. Lindsay&apos;s brother, Sam, struggles to confront a bully.&quot; (para 3, n.d.)</rdfs:comment>
+>>>>>>> master
         <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">1.Pilotepisode</rdfs:label>
     </owl:Class>
@@ -1254,7 +1262,11 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000116">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+<<<<<<< HEAD
         <rdfs:comment xml:lang="en">&quot;With her parents out of town, Lindsay throws a party at the house to impress Daniel. Wary of alcohol, Sam&apos;s friends replace the keg with fake beer.&quot; (para. 3, n.d.)</rdfs:comment>
+=======
+        <rdfs:comment xml:lang="en">&quot;With her parents out of town, Lindsay throws a party at the house to impress Daniel. Wary of alcohol, Sam&apos;s friends replace the keg with fake beer.&quot; (para 3, n.d.)</rdfs:comment>
+>>>>>>> master
         <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">2.BeersandWeirs</rdfs:label>
     </owl:Class>
@@ -1265,7 +1277,11 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000117">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
+<<<<<<< HEAD
         <rdfs:comment xml:lang="en">&quot;Sam convinces Bill and Neal to trick-or-treat on Halloween, but they end up embarrassed while Lindsay and her friends wreak havoc in the neighborhood.&quot; (para. 3, n.d.)</rdfs:comment>
+=======
+        <rdfs:comment xml:lang="en">&quot;Sam convinces Bill and Neal to trick-or-treat on Halloween, but they end up embarrassed while Lindsay and her friends wreak havoc in the neighborhood.&quot; (para 3, n.d.)</rdfs:comment>
+>>>>>>> master
         <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">3.TricksandTreats</rdfs:label>
     </owl:Class>
