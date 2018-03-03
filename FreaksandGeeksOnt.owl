@@ -472,6 +472,253 @@
     
 
 
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000221 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000221">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000148"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000076"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000222 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000222">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000142"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000077"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000223 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000223">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000147"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000078"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000224 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000224">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000144"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000079"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000225 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000225">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000133"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000080"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000226 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000226">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000134"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000081"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000227 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000227">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000141"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000082"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000228 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000228">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000136"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000083"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000229 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000229">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000146"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000084"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000230 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000230">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000151"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000085"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000231 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000231">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000140"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000086"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000232 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000232">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000149"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000087"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000233 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000233">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000143"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000088"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000234 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000234">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000138"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000089"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000235 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000235">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000139"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000090"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000236 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000236">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000135"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000091"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000237 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000237">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000150"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000092"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000238 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000238">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000137"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000093"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000239 -->
+
+    <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000239">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000145"/>
+        <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000094"/>
+        <rdfs:comment xml:lang="en">Identifying the actor who played a specific character.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">wasPlayedBy</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -497,6 +744,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000055">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:comment xml:lang="en">Industry awards wins and nominations related to the television series and its cast and/or crew.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">AwardsandNominations</rdfs:label>
     </owl:Class>
     
@@ -535,7 +784,10 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000059">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
-        <rdfs:label xml:lang="en">Creators</rdfs:label>
+        <rdfs:comment xml:lang="en">The one person who has a writing credit on all 18 episodes of the television series.</rdfs:comment>
+        <rdfs:comment xml:lang="en">The two primary people who created the television series and wrote the episodes.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">MainWriter</rdfs:label>
     </owl:Class>
     
 
@@ -544,6 +796,8 @@
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:comment xml:lang="en">The real life people who played specific characters in the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Actors</rdfs:label>
     </owl:Class>
     
@@ -924,20 +1178,14 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
     
 
 
-    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000095 -->
-
-    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000095">
-        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000059"/>
-        <owl:disjointWith rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096"/>
-        <rdfs:label xml:lang="en">Apatow,Judd</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096 -->
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000059"/>
+        <rdfs:comment xml:lang="en">&quot;Paul Feig was born on September 17, 1962 in Mount Clemens, Michigan, USA. He is an actor and producer, known for Freaks and Geeks (1999), The Heat (2013) and Spy (2015). He has been married to Laurie Karon since September 23, 1994.&quot; (para 3, 2018)</rdfs:comment>
+        <rdfs:comment xml:lang="en">The one person who has a writing credit on all 18 episodes of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0082450/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Feig,Paul</rdfs:label>
     </owl:Class>
     
@@ -947,8 +1195,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000115">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">&quot;Studious &apos;mathlete&apos; Lindsay starts hanging out with a group of burnouts, worrying her parents. Lindsay&apos;s brother, Sam, struggles to confront a bully.&quot;</rdfs:isDefinedBy>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Studious &apos;mathlete&apos; Lindsay starts hanging out with a group of burnouts, worrying her parents. Lindsay&apos;s brother, Sam, struggles to confront a bully.&quot; (para 3, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">1.Pilotepisode</rdfs:label>
     </owl:Class>
     
@@ -958,7 +1206,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000116">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;With her parents out of town, Lindsay throws a party at the house to impress Daniel. Wary of alcohol, Sam&apos;s friends replace the keg with fake beer.&quot; (para 3, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">2.BeersandWeirs</rdfs:label>
     </owl:Class>
     
@@ -968,7 +1217,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000117">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Sam convinces Bill and Neal to trick-or-treat on Halloween, but they end up embarrassed while Lindsay and her friends wreak havoc in the neighborhood.&quot; (para 3, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">3.TricksandTreats</rdfs:label>
     </owl:Class>
     
@@ -978,7 +1228,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000118">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Kim&apos;s friend, Karen, bullies Sam and calls him a geek. Kim invites Lindsay to dinner at her house, exposing Lindsay to the abuse Kim takes at home.&quot; (para. 3, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">4.KimKellyIsMyFriend</rdfs:label>
     </owl:Class>
     
@@ -988,7 +1239,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000119">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Lindsay offers to help Daniel study for an algebra test, but ends up accused by the teacher of cheating. Daniel lends sexually naive Sam a porn film.&quot; (para. 4, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">5.TestsandBreasts</rdfs:label>
     </owl:Class>
     
@@ -1131,7 +1383,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
         <rdfs:comment xml:lang="en">Following her grandmother’s death, Lindsay (played by Linda Cardellini) begins the transition from geek (mathlete) to freak (like her crush, Daniel Desario). A high school junior who has grown tired of teenage pretenses, she begins to question the purpose of life and if being good truly matters. One of her first lines in the pilot episode: “Man, I hate high school” aptly sets the stage for the rest of the show.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Weir,Lindsay(LindaCardellini)</rdfs:label>
+        <rdfs:label xml:lang="en">Weir,Lindsay</rdfs:label>
     </owl:Class>
     
 
@@ -1142,7 +1394,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
         <rdfs:comment xml:lang="en">Lindsay’s geek younger brother, Sam (played by John Francis Daley) is a freshman in high school and the one who is humiliated (mainly by his nemesis Alan White) and picked on the most. His crew basically consists of his two best friends, Bill Haverchuck and Neil Schweiber, who are just as awkward as he is and dread gym class almost as much as he does. He crushes pretty hard on Cindy Saunders, but soon learns she’s not everything he had built her up to be.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Weir,Sam(JohnFrancisDaley)</rdfs:label>
+        <rdfs:label xml:lang="en">Weir,Sam</rdfs:label>
     </owl:Class>
     
 
@@ -1153,7 +1405,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
         <rdfs:comment xml:lang="en">Part of the freaks, Nick (played by Jason Segel) is an aspiring rock and roll drummer whose favourite bands include Led Zeppelin and Rush. Honest to a fault, he wears his heart on his sleeve. He and Lindsay date briefly and although it doesn’t work out, he continues to carry a flame for her, which sometimes borders on obsession. Brought up by a strict, military father, Nick was once a promising athlete, until he fell into the freak crowd and started smoking pot.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Andopolis,Nick(JasonSegel)</rdfs:label>
+        <rdfs:label xml:lang="en">Andopolis,Nick</rdfs:label>
     </owl:Class>
     
 
@@ -1164,7 +1416,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
         <rdfs:comment xml:lang="en">Part of the freaks, Daniel (played by James Franco) is the school bad boy (held back at least one grade) who Lindsay originally has a crush on and is the catalyst for her introduction to the freak group. He is the on and off (mostly on) boyfriend of Kim Kelly. While appearing tough and charming, he is also insecure in some respects. Although not book smart, Daniel seems to have a deep emotional intelligence.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Desario,Daniel(JamesFranco)</rdfs:label>
+        <rdfs:label xml:lang="en">Desario,Daniel</rdfs:label>
     </owl:Class>
     
 
@@ -1175,7 +1427,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
         <rdfs:comment xml:lang="en">A quintessential geek and easily the most physically awkward character, Bill (played by Martin Starr) is one of Sam Weir’s best friends and is a genuine fan of the TV show Dallas. He has a peanut allergy, in a time when peanut allergies were uncommon, unrecognized and peanuts weren’t banned from school, Bill suffers a life-threatening situation due to the actions of Alan White. His father left when he was young, and when his mom finds new love, Bill really struggles with the man that she selects.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Haverchuck,Bill(MartinStarr)</rdfs:label>
+        <rdfs:label xml:lang="en">Haverchuck,Bill</rdfs:label>
     </owl:Class>
     
 
@@ -1186,7 +1438,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
         <rdfs:comment xml:lang="en">Part of the freaks, Kim (played by Busy Philipps) is a hot-tempered, bully, but despite her tough upbringing, she has a heart of gold when it comes to those she cares about. She is the on and off (mostly on) girlfriend of Daniel Desario. Suspicious of Lindsay’s intentions, she is not welcoming at first, but she eventually warms up and a friendship begins to blossom.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Kelly,Kim(BusyPhilipps)</rdfs:label>
+        <rdfs:label xml:lang="en">Kelly,Kim</rdfs:label>
     </owl:Class>
     
 
@@ -1197,7 +1449,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
         <rdfs:comment xml:lang="en">Part of the freaks, Ken (played by Seth Rogan) is sarcastic and cynical and is the least featured main character, until the story arc where he starts dating Amy Edwards.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Miller,Ken(SethRogan)</rdfs:label>
+        <rdfs:label xml:lang="en">Miller,Ken</rdfs:label>
     </owl:Class>
     
 
@@ -1208,7 +1460,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
         <rdfs:comment xml:lang="en">A witty geek from a wealthy family, Neil (played by Samm Levine) one of Sam Weir’s best friends. It becomes evident that Neil has an unrequited love for Lindsay Weir. Although appearing to have an idyllic family life, Neil is crushed when he discovers is beloved father is having an affair. Despite his confidence and being the most secure with himself, following what he perceives to be a betrayal on his father’s part, he picks up ventriloquism to get attention.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Schweiber,Neil(SammLevine)</rdfs:label>
+        <rdfs:label xml:lang="en">Schweiber,Neil</rdfs:label>
     </owl:Class>
     
 
@@ -1219,7 +1471,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
         <rdfs:comment xml:lang="en">A bit of a curmudgeon, Harold (played by Joe Flaherty) is a sports apparel business owner and is the father of Lindsay and Sam Weir. While seemingly unengaged, he cares deeply for his whole family.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Weir,Harold(JoeFlaherty)</rdfs:label>
+        <rdfs:label xml:lang="en">Weir,Harold</rdfs:label>
     </owl:Class>
     
 
@@ -1230,7 +1482,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000062"/>
         <rdfs:comment xml:lang="en">A homemaker struggling to adjust to her kids growing up, Jean (played by Becky Ann Baker) is the loving and attentive mother of Lindsay and Sam.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Weir,Jean(BeckyAnnBaker)</rdfs:label>
+        <rdfs:label xml:lang="en">Weir,Jean</rdfs:label>
     </owl:Class>
     
 
@@ -1239,7 +1491,9 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000143">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000061"/>
-        <rdfs:label xml:lang="en">Crisp,Gordon(JerryMessing)</rdfs:label>
+        <rdfs:comment xml:lang="en">A geek friend of Sam Weir’s, Gordon (played by Jerry Messing) is very insightful and comfortable with himself despite his weight and trimethylaminuria. While originally an outcast, he ingratiates himself into Sam’s circle of friends.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Crisp,Gordon</rdfs:label>
     </owl:Class>
     
 
@@ -1248,7 +1502,9 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000144">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000061"/>
-        <rdfs:label xml:lang="en">Edwards,Amy(JessicaCampbell)</rdfs:label>
+        <rdfs:comment xml:lang="en">Very dry witted and sarcastic, Amy (aka Tuba Girl and played by Jessica Campbell) is a member of the band who unwittingly catches the romantic attention of Ken Miller. One of the most intriguing and engaging episodes is the one when Amy tells Ken that she is a hermaphrodite.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Edwards,Amy</rdfs:label>
     </owl:Class>
     
 
@@ -1257,7 +1513,9 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000145">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000061"/>
-        <rdfs:label xml:lang="en">CoachFredericks,Ben(ThomasF.Wilson)</rdfs:label>
+        <rdfs:comment xml:lang="en">A gym teacher at William McKinley High School, originally seemingly patronizing to the geeks, Coach Fredricks (played by Thomas F. Wilson) actually becomes an endearing character as he works to win over Bill Haverchuck when he begins dating his mother.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">CoachFredericks,Ben</rdfs:label>
     </owl:Class>
     
 
@@ -1266,7 +1524,9 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000146">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000061"/>
-        <rdfs:label xml:lang="en">Kenter,Millie(SarahHagan)</rdfs:label>
+        <rdfs:comment xml:lang="en">A geek and former best friend of Lindsay Weir, Milllie (played by Sarah Hagan) struggles to understand Lindsay’s change in character and where she now fits, while remaining true to the mathletes.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Kenter,Millie</rdfs:label>
     </owl:Class>
     
 
@@ -1275,7 +1535,9 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000147">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000061"/>
-        <rdfs:label xml:lang="en">Kowchevski,Frank(SteveBannos)</rdfs:label>
+        <rdfs:comment xml:lang="en">A tough teacher at William McKinley High School, Mr. Kowchevski (played by Steve Bannos) expects the worst of his students.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Kowchevski,Frank</rdfs:label>
     </owl:Class>
     
 
@@ -1284,7 +1546,9 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000148">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000061"/>
-        <rdfs:label xml:lang="en">Rosso,Jeff(DaveAllen)</rdfs:label>
+        <rdfs:comment xml:lang="en">The genuinely caring, hippie guidance counsellor at William McKinley High School, Mr. Rosso (played by Dave Allen) tries desperately to relate to the students on a personal level.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Rosso,Jeff</rdfs:label>
     </owl:Class>
     
 
@@ -1293,7 +1557,9 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000149">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000061"/>
-        <rdfs:label xml:lang="en">Sanders,Cindy(Natasha Melnick)</rdfs:label>
+        <rdfs:comment xml:lang="en">A popular cheerleader and good girl, Cindy (played by Natasha Melnick) is Sam Weir’s crush. While she seems perfect, after finally getting the girl of this dreams, Sam discovers she’s not who he thought she was.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Sanders,Cindy</rdfs:label>
     </owl:Class>
     
 
@@ -1302,7 +1568,9 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000150">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000061"/>
-        <rdfs:label xml:lang="en">Trinsky,Harry(StephenLeaSheppard)</rdfs:label>
+        <rdfs:comment xml:lang="en">A geek, yet a mystic savant of sorts, Harris (played by Stephen Lea Sheppard) is an old soul who provides sage advice to both the freaks and geeks.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Trinsky,Harry</rdfs:label>
     </owl:Class>
     
 
@@ -1311,7 +1579,9 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000151">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000061"/>
-        <rdfs:label xml:lang="en">White,Alan(ChaunceyLeopardi)</rdfs:label>
+        <rdfs:comment xml:lang="en">Sam Weir’s arch nemesis, Alan (played by Chauncey Leopardi) is originally portrayed as a stereotypical 1980s bully, but the audience quickly learns that he yearns to belong to the group and is acting out because he feel as though they’ve cast him aside. He very nearly kills Bill Haverchuck when he &apos;tests&apos; Bill&apos;s peanut allergy.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">White,Alan</rdfs:label>
     </owl:Class>
     
 
