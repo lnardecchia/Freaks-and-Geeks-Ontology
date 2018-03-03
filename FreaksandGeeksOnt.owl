@@ -217,6 +217,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000183"/>
+        <rdfs:comment xml:lang="en">This award&apos;s winner was an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hasWon</rdfs:label>
     </owl:ObjectProperty>
     
@@ -228,6 +230,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000183"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096"/>
+        <rdfs:comment xml:lang="en">This element of the television series won this award.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasWonBy</rdfs:label>
     </owl:ObjectProperty>
     
@@ -239,6 +243,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000181"/>
+        <rdfs:comment xml:lang="en">This element of the television series was included in this award&apos;s list of nominees.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
     </owl:ObjectProperty>
     
@@ -250,6 +256,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000181"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096"/>
+        <rdfs:comment xml:lang="en">This award&apos;s list of nominees included an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hadNominee</rdfs:label>
     </owl:ObjectProperty>
     
@@ -261,6 +269,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000193"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:comment xml:lang="en">This element of the television series won this award.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasWonBy</rdfs:label>
     </owl:ObjectProperty>
     
@@ -272,6 +282,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000193"/>
+        <rdfs:comment xml:lang="en">This award&apos;s winner was an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hasWon</rdfs:label>
     </owl:ObjectProperty>
     
@@ -283,6 +295,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000184"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000131"/>
+        <rdfs:comment xml:lang="en">This award&apos;s list of nominees included an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hadNominee</rdfs:label>
     </owl:ObjectProperty>
     
@@ -294,6 +308,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000131"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000184"/>
+        <rdfs:comment xml:lang="en">This element of the television series was included in this award&apos;s list of nominees.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
     </owl:ObjectProperty>
     
@@ -305,6 +321,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000115"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000185"/>
+        <rdfs:comment xml:lang="en">This element of the television series was included in this award&apos;s list of nominees.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
     </owl:ObjectProperty>
     
@@ -316,6 +334,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000069"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000115"/>
+        <rdfs:comment xml:lang="en">This award&apos;s list of nominees included an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hadNominee</rdfs:label>
     </owl:ObjectProperty>
     
@@ -327,6 +347,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000116"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000186"/>
+        <rdfs:comment xml:lang="en">This element of the television series was included in this award&apos;s list of nominees.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
     </owl:ObjectProperty>
     
@@ -338,6 +360,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000186"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000116"/>
+        <rdfs:comment xml:lang="en">This award&apos;s list of nominees included an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hadNominee</rdfs:label>
     </owl:ObjectProperty>
     
@@ -348,6 +372,8 @@
     <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000209">
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000080"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000188"/>
+        <rdfs:comment xml:lang="en">This element of the television series was included in this award&apos;s list of nominees.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
     </owl:ObjectProperty>
     
@@ -358,6 +384,8 @@
     <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000210">
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000188"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000080"/>
+        <rdfs:comment xml:lang="en">This award&apos;s list of nominees included an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hadNominee</rdfs:label>
     </owl:ObjectProperty>
     
@@ -369,6 +397,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000084"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000194"/>
+        <rdfs:comment xml:lang="en">This element of the television series was included in this award&apos;s list of nominees.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
     </owl:ObjectProperty>
     
@@ -380,6 +410,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000194"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000084"/>
+        <rdfs:comment xml:lang="en">This award&apos;s list of nominees included an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hadNominee</rdfs:label>
     </owl:ObjectProperty>
     
@@ -391,6 +423,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000081"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000195"/>
+        <rdfs:comment xml:lang="en">This element of the television series was included in this award&apos;s list of nominees.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
     </owl:ObjectProperty>
     
@@ -402,6 +436,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000195"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000081"/>
+        <rdfs:comment xml:lang="en">This award&apos;s list of nominees included an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hadNominee</rdfs:label>
     </owl:ObjectProperty>
     
@@ -413,6 +449,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000191"/>
+        <rdfs:comment xml:lang="en">This element of the television series was included in this award&apos;s list of nominees.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
     </owl:ObjectProperty>
     
@@ -424,6 +462,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000191"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:comment xml:lang="en">This award&apos;s list of nominees included an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hadNominee</rdfs:label>
     </owl:ObjectProperty>
     
@@ -435,6 +475,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000190"/>
+        <rdfs:comment xml:lang="en">This element of the television series was included in this award&apos;s list of nominees.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
     </owl:ObjectProperty>
     
@@ -445,6 +487,8 @@
     <owl:ObjectProperty rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000218">
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000190"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:comment xml:lang="en">This award&apos;s list of nominees included an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hadNominee</rdfs:label>
     </owl:ObjectProperty>
     
@@ -456,6 +500,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000189"/>
+        <rdfs:comment xml:lang="en">This element of the television series was included in this award&apos;s list of nominees.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">wasNominatedFor</rdfs:label>
     </owl:ObjectProperty>
     
@@ -467,6 +513,8 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
         <rdfs:domain rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000189"/>
         <rdfs:range rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:comment xml:lang="en">This award&apos;s list of nominees included an element of the television series.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">hadNominee</rdfs:label>
     </owl:ObjectProperty>
     
@@ -973,7 +1021,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000076">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Dave Allen was born in 1958 in Naperville, Illinois, USA and graduated from Augustana College in Rock Island, IL. He is an actor and writer, known for Freaks and Geeks (1999), Crossroads (2002), Bad Teacher (2011), and Sex Tape (2014).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0020405/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0020405/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Allen,Dave</rdfs:label>
     </owl:Class>
     
@@ -984,7 +1032,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000077">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Becky Ann Baker was born on February 17, 1953 in Fort Knox, Kentucky, USA as Becky Ann Gelke. She is an actress, known for A Simple Plan (1998), Men in Black (1997) and Spider-Man 3 (2007). She has been married to Dylan Baker since 1990. They have one child.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0048250/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0048250/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Baker,BeckyAnn</rdfs:label>
     </owl:Class>
     
@@ -995,7 +1043,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000078">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Steve Bannos was born on August 5, 1960 in Chicago, Illinois, USA and studied BFA in Acting at Drake University. He is an actor and writer, known for Freaks and Geeks (1999), Love (2016) and Ned&apos;s Declassified School Survival Guide (2004).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0052446/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0052446/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Bannos,Steve</rdfs:label>
     </owl:Class>
     
@@ -1006,7 +1054,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000079">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Jessica Campbell was born on October 30, 1982 in Tulsa, Oklahoma, USA. She is known for her work on Election (1999), In the Best Interest of the Children (1992) and The Safety of Objects (2001). She has been married to Daniel Papkin since August 1, 2009.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0004795/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0004795/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Campbell,Jessica</rdfs:label>
     </owl:Class>
     
@@ -1017,7 +1065,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000080">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Linda Edna Cardellini was born on June 25, 1975 in Redwood City, California but grew up in the San Francisco Bay area, California. She Linda has a Bachelor of Arts degree in Theatre from Loyola Marymount University, and completed a summer study program at the National Theatre in London. She is known for her work in Freaks and Geeks (1999) for she which won an Emmy Award in the Category of &quot;Outstanding Casting for a Comedy Series&quot; (connect to awards), Legally Blonde (2001) and Brokeback Mountain (2005). She has a daughter named Lilah-Rose.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0004802/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0004802/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Cardellini,Linda</rdfs:label>
     </owl:Class>
     
@@ -1028,7 +1076,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000081">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">John Francis Daley was born on July 20, 1985 in Wheeling, Illinois, USA.  He is known for his work on Freaks and Geeks (1999) and Bones (2005). Now enjoying a successful screenwriting career, with his writing partner, Jonathan Goldstein, such as the hit, Horrible Bosses (2011). As well as being an actor and screenwriter, John is also a musician, playing keyboard and singing lead vocals in his band, Dayplayer. He married Corinne Kingsbury and in 2017 they have a son, Basil.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0197855/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0197855/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Daley,JohnFrancis</rdfs:label>
     </owl:Class>
     
@@ -1039,7 +1087,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000082">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Joe Flaherty was born on June 21, 1941 in Pittsburgh, Pennsylvania, USA as Joseph O&apos;Flaherty. He is an actor and writer, known for Happy Gilmore (1996), Back to the Future Part II (1989) and SCTV Network (1981). He is a faculty member of Humber College&apos;s Comedy: Writing &amp; Performance course.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0280886/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0280886/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Flaherty,Joe</rdfs:label>
     </owl:Class>
     
@@ -1050,7 +1098,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000083">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">James Franco was born April 19, 1978 in Palo Alto, California. He may perhaps be one of the most academically accomplished actors (an &quot;extreme scholar&quot;) in Hollywood history: besides his BFA in English from UCLA, he has two MFA degrees - both in writing - from Columbia and Brooklyn College, and a third MFA, in film, from New York University. Known for his breakthrough starring role on Freaks and Geeks (1999), the TNT made-for-television movie, James Dean (2001), Spider-Man (2002) and The Disaster Artist (2017), directed by himself. He has his own production company - Rabbit Bandini Productions.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0290556/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0290556/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Franco,James</rdfs:label>
     </owl:Class>
     
@@ -1061,7 +1109,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000084">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Sarah Hagan was born on May 24, 1984 in Austin, Texas, USA as Sarah Margaret Hagan. She is known for her work on Freaks and Geeks (1999), Buffy the Vampire Slayer (1997) and Jess + Moss (2011).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0353247/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0353247/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Hagan,Sarah</rdfs:label>
     </owl:Class>
     
@@ -1072,7 +1120,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000085">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Chauncey Leopardi was born on June 14, 1981. He is an actor, known for The Sandlot (1993), Casper (1995) and Father of the Bride (1991).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0503140/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0503140/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Leopardi,Chauncey</rdfs:label>
     </owl:Class>
     
@@ -1083,7 +1131,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000086">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Samm Levine was born on March 12, 1982 in Chicago, Illinois, USA. He known for Freaks and Geeks (1999), Undeclared (2001) and Inglourious Basterds (2009).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0505949/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0505949/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Levine,Samm</rdfs:label>
     </owl:Class>
     
@@ -1094,7 +1142,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000087">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Natasha Melnick was born on April 10, 1984 in Los Angeles, California, USA. She is an actress, known for Orange County (2002), Freaks and Geeks (1999) and The Parent Trap (1998).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0578184/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0578184/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Melnick,Natasha</rdfs:label>
     </owl:Class>
     
@@ -1105,7 +1153,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000088">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Jerry Messing was born on April 3, 1986 in Los Angeles County, California, USA as Jerome Edward Trager Messing. He is an actor, known for Freaks and Geeks (1999), Even Stevens (2000) and Addams Family Reunion (1998).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0582202/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0582202/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Messing,Jerry</rdfs:label>
     </owl:Class>
     
@@ -1116,7 +1164,7 @@
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000089">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Busy Philipps was born Elizabeth Jean Philipps on June 25, 1979 in Illinois, US. Best known for Freaks and Geeks (1999), Dawson&apos;s Creek (1998) Cougar Town (2009). She has two daughters with her husband Marc Silverstein - Birdie Leigh Silverstein and Cricket Pearl Silverstein.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">http://www.imdb.com/name/nm0005311/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0005311/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Philipps,Busy</rdfs:label>
     </owl:Class>
     
@@ -1128,7 +1176,7 @@
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Seth Rogen was born on April 15, 1982 in Vancouver, British Columbia.
 He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked Up (2007) and Superbad (2007). A talented voice artist, Rogen is in the animated films Horton Hears a Who! (2008) and Kung Fu Panda (2008). Rogan is married Lauren Miller-Rogen in October 2011.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">https://www.imdb.com/name/nm0736622/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: https://www.imdb.com/name/nm0736622/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Rogan,Seth</rdfs:label>
     </owl:Class>
     
@@ -1139,7 +1187,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000091">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Jason Segel was born on January 18, 1980 in Los Angeles, California, USA. Known for Freaks and Geeks (1999), How I Met Your Mother (2005), Forgetting Sarah Marshall (2008) which he wrote and starred in and The Muppets (2011), which he cowrote and starred in. Segel is also a musician and songwriter.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">https://www.imdb.com/name/nm0781981/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: https://www.imdb.com/name/nm0781981/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Segel,Jason</rdfs:label>
     </owl:Class>
     
@@ -1150,7 +1198,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000092">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Stephen Lea Sheppard was born on January 26, 1983. He is an actor, known for The Royal Tenenbaums (2001), Freaks and Geeks (1999) and The Begun of Tigtone (2014).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">https://www.imdb.com/name/nm0791991/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: https://www.imdb.com/name/nm0791991/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Sheppard,StephenLea</rdfs:label>
     </owl:Class>
     
@@ -1161,7 +1209,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000093">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Martin Starr was born on July 30, 1982 in Santa Monica, California, USA. He is an actor and producer, known for Freaks and Geeks (1999), Party Down (2009) and Silicon Valley (2014).</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">https://www.imdb.com/name/nm0771414/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: https://www.imdb.com/name/nm0771414/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Starr,Martin</rdfs:label>
     </owl:Class>
     
@@ -1172,7 +1220,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000094">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000060"/>
         <rdfs:comment xml:lang="en">Thomas F. Wilson was born on in Philadelphia, Pennsylvania, USA. Wilson is known for the Back to the Future (1985) trilogy and Freaks and Geeks (1999). Wilson has enjoyed a successful career as an actor, writer and comedian for over 20 years. Wilson is married to Carline Wilson and has four children: Anna May, Emily, Gracie and Tommy.</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">https://www.imdb.com/name/nm0001855/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: https://www.imdb.com/name/nm0001855/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Wilson,ThomasF.</rdfs:label>
     </owl:Class>
     
@@ -1182,7 +1230,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000096">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000059"/>
-        <rdfs:comment xml:lang="en">&quot;Paul Feig was born on September 17, 1962 in Mount Clemens, Michigan, USA. He is an actor and producer, known for Freaks and Geeks (1999), The Heat (2013) and Spy (2015). He has been married to Laurie Karon since September 23, 1994.&quot; (para 3, 2018)</rdfs:comment>
+        <rdfs:comment xml:lang="en">&quot;Paul Feig was born on September 17, 1962 in Mount Clemens, Michigan, USA. He is an actor and producer, known for Freaks and Geeks (1999), The Heat (2013) and Spy (2015). He has been married to Laurie Karon since September 23, 1994.&quot; (para. 3, 2018)</rdfs:comment>
         <rdfs:comment xml:lang="en">The one person who has a writing credit on all 18 episodes of the television series.</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0082450/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
         <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
@@ -1195,7 +1243,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000115">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:comment xml:lang="en">&quot;Studious &apos;mathlete&apos; Lindsay starts hanging out with a group of burnouts, worrying her parents. Lindsay&apos;s brother, Sam, struggles to confront a bully.&quot; (para 3, n.d.)</rdfs:comment>
+        <rdfs:comment xml:lang="en">&quot;Studious &apos;mathlete&apos; Lindsay starts hanging out with a group of burnouts, worrying her parents. Lindsay&apos;s brother, Sam, struggles to confront a bully.&quot; (para. 3, n.d.)</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">1.Pilotepisode</rdfs:label>
     </owl:Class>
@@ -1206,7 +1254,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000116">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:comment xml:lang="en">&quot;With her parents out of town, Lindsay throws a party at the house to impress Daniel. Wary of alcohol, Sam&apos;s friends replace the keg with fake beer.&quot; (para 3, n.d.)</rdfs:comment>
+        <rdfs:comment xml:lang="en">&quot;With her parents out of town, Lindsay throws a party at the house to impress Daniel. Wary of alcohol, Sam&apos;s friends replace the keg with fake beer.&quot; (para. 3, n.d.)</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">2.BeersandWeirs</rdfs:label>
     </owl:Class>
@@ -1217,7 +1265,7 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000117">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:comment xml:lang="en">&quot;Sam convinces Bill and Neal to trick-or-treat on Halloween, but they end up embarrassed while Lindsay and her friends wreak havoc in the neighborhood.&quot; (para 3, n.d.)</rdfs:comment>
+        <rdfs:comment xml:lang="en">&quot;Sam convinces Bill and Neal to trick-or-treat on Halloween, but they end up embarrassed while Lindsay and her friends wreak havoc in the neighborhood.&quot; (para. 3, n.d.)</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">3.TricksandTreats</rdfs:label>
     </owl:Class>
@@ -1250,7 +1298,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000120">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Nick feels that focusing on his drumming is the only way to avoid going into the military. Insecure Sam refuses to shower after gym class.&quot; (para. 4, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">6.I’mWiththeBand</rdfs:label>
     </owl:Class>
     
@@ -1260,7 +1309,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000121">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Lindsay and the freaks go to great lengths to get fake IDs to see a local band at a bar. The geeks befriend a pretty new transfer student.&quot; (para. 4, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">7.CardedandDiscarded</rdfs:label>
     </owl:Class>
     
@@ -1270,7 +1320,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000122">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Nick starts to show an obsessive interest in Lindsay, which leaves her feeling creeped out. Sam is jealous that Bill and Cindy are science partners.&quot; (para. 4, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">8.GirlfriendsandBoyfriends</rdfs:label>
     </owl:Class>
     
@@ -1280,7 +1331,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000123">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Sam&apos;s plan to woo Cindy by becoming the school mascot goes awry. Lindsay wants to break up with Nick. The freaks battle students from a rival school.&quot; (para. 5, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">9.We’veGotSpirit</rdfs:label>
     </owl:Class>
     
@@ -1290,7 +1342,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000124">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Tired of being harassed by Coach Fredricks, Bill lashes out with prank phone calls. Lindsay’s parents violate her trust by reading her diary.&quot; (para. 5, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">10.TheDiary</rdfs:label>
     </owl:Class>
     
@@ -1300,7 +1353,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000125">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Lindsay rejoins the mathletes and reconnects with Millie after her folks ground her for crashing their car. Sam tries to dress well to impress Cindy.&quot; (para. 5, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">11.LooksandBooks</rdfs:label>
     </owl:Class>
     
@@ -1310,7 +1364,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000126">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Sam and Bill tell Neal they saw his father with a woman who isn&apos;t Neal&apos;s mom. Ken has a crush on a girl who plays tuba in the school marching band.&quot; (para. 5, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">12.TheGarageDoor</rdfs:label>
     </owl:Class>
     
@@ -1320,7 +1375,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000127">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Lindsay smokes pot for the first time, forgetting that she’s scheduled to baby-sit a neighbor. Bill nearly dies when he accidentally eats peanuts.&quot; (para. 6, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">13.Chokin’andTokin’</rdfs:label>
     </owl:Class>
     
@@ -1330,7 +1386,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000128">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Lindsay and Kim accidentally run over Millie&apos;s dog. Nick writes a love ballad for Lindsay. Bill is horrified that Mr. Fredricks is dating his mom.&quot; (para 6. n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">14.DeadDogsandGymTeachers</rdfs:label>
     </owl:Class>
     
@@ -1340,7 +1397,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000129">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Daniel changes his appearance in an attempt to impress a punk girl named Jenna. Neal is obsessed with ventriloquism at the expense of his studies.&quot; (para. 6, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">15.NoshingandMoshing</rdfs:label>
     </owl:Class>
     
@@ -1350,8 +1408,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000130">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:comment xml:lang="en">&quot;Sam asks Cindy to go to a party after she tells Bill that she has a crush on Sam. Nick stays with the Weirs following a confrontation with his father.&quot;</rdfs:comment>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Sam asks Cindy to go to a party after she tells Bill that she has a crush on Sam. Nick stays with the Weirs following a confrontation with his father.&quot; (para. 6, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">16.SmoochingandMooching</rdfs:label>
     </owl:Class>
     
@@ -1361,7 +1419,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000131">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;Ken questions his sexuality after his girlfriend reveals a secret. Sam becomes fed up with dating Cindy. George Bush visits McKinley for an assembly.&quot; (para. 7, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">17.TheLittleThings</rdfs:label>
     </owl:Class>
     
@@ -1371,7 +1430,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000132">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000057"/>
-        <rdfs:isDefinedBy xml:lang="en">Retrieved from NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
+        <rdfs:comment xml:lang="en">&quot;The freaks find out that Nick is entering a disco competition with his new girlfriend. Lindsay faces a decision that could set her life on a new path.&quot; (para. 7, n.d.)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NETFLIX: https://www.netflix.com/ca/title/70253797</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">18.DiscosandDragons</rdfs:label>
     </owl:Class>
     
@@ -1590,7 +1650,9 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000152">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000058"/>
-        <rdfs:label xml:lang="en">NationalBroadcastingCompany(NBC)</rdfs:label>
+        <rdfs:comment xml:lang="en">&quot;NBCUniversal owns and operates a valuable portfolio of news and entertainment television networks, a premier motion picture company, significant television production operations, a leading television stations group, world-renowned theme parks, and a suite of leading Internet-based businesses. NBCUniversal is a subsidiary of Comcast Corporation.&quot; (para. 2, 2018)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">NBCUniversal: http://www.nbcuniversal.com/who-we-are</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">NationalBroadcastingCompany(NBC)(circa2004known as NBCUniversal)</rdfs:label>
     </owl:Class>
     
 
@@ -1599,6 +1661,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000153">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000056"/>
+        <rdfs:comment xml:lang="en">Lindsay hesitantly enters into a relationship with Nick after kissing him to try and make him feel better after a disastrous band audition she sent him to. While well-meaning, she gives him a new sense of purpose and motivation that drives a stake between him and his friends. Lindsay ends the relationship not long after it begins due to his burnout ways. Nick continues to carry a torch for her, which leads to some uncomfortable situations.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">NickandLindsay’sRelationship</rdfs:label>
     </owl:Class>
     
@@ -1608,6 +1672,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000154">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000056"/>
+        <rdfs:comment xml:lang="en">Ken finally meets someone, Amy (Tuba Girl), he connects with on a romantic level. However, when Amy tells Ken a very personal secret, that she is a hermaphrodite, he struggles to come to terms with his feelings. It shows the audience a side of Ken that is surprisingly warm insightful.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Ken’sDiscoversAmy’sanHermaphrodite</rdfs:label>
     </owl:Class>
     
@@ -1617,6 +1683,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000155">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000056"/>
+        <rdfs:comment xml:lang="en">Following crashing the family car and becoming disillusioned with the freaks, Lindsay makes a return to the geeks. She enthusiastically rejoins the mathletes and her former group of friends. During a sleepover with her former group and former best friend Millie, Lindsay realizes that she has changed too much to return to her previous life.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Lindsay’sReturntoTheGeeks</rdfs:label>
     </owl:Class>
     
@@ -1626,6 +1694,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000156">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000056"/>
+        <rdfs:comment xml:lang="en">After pining over Cindy and awkward attempts at flirtation, Sam finally gets his chance after her popular boyfriend breaks up with her. Once the shine comes off the excitement of finally becoming her boyfriend, Sam realizes she is high maintenance and that perhaps they are not a good match. He gives her a heartfelt and personal gift of a necklace and discovers that she does not care for it. He finally breaks up with her after realizing just how miserable she makes him.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">SamandCindy’sRelationship</rdfs:label>
     </owl:Class>
     
@@ -1635,6 +1705,8 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
 
     <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000157">
         <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000056"/>
+        <rdfs:comment xml:lang="en">Much to Bill’s chagrin, his mother begins to date Coach Fredericks, his high school gym teacher. Coach Frederick’s does his best to bond with Bill and his friends Neil and Sam. He wins the friends over, but he has to fight hard to finally win Bill over.</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">Lisa Nardecchia</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">Bill’sMomDatesCoachFredericks</rdfs:label>
     </owl:Class>
     
@@ -1834,6 +1906,28 @@ He is known for Freaks and Geeks (1999), The 40-Year-Old Virgin (2005), Knocked 
         <rdfs:comment xml:lang="en">Nominee: Best Young Ensemble Cast – Television for the cast</rdfs:comment>
         <rdfs:isDefinedBy xml:lang="en">Wikipedia: https://en.wikipedia.org/wiki/Freaks_and_Geeks#Awards_and_nominations</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">BestYoungEnsembleCast–Television</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000240 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000240">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000037"/>
+        <rdfs:comment xml:lang="en">&quot;The role of the Executive Producer is to oversee the work of the producer on behalf of the studio, the financiers or the distributors. They will ensure the film is completed on time, within budget, and to agreed artistic and technical standards.&quot; (para. 1, 2018)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">mediamatch: http://www.media-match.com/usa/media/jobtypes/executive-producer-jobs-405700.php</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">ExecutiveProducer</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000241 -->
+
+    <owl:Class rdf:about="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000241">
+        <rdfs:subClassOf rdf:resource="http://www.freaksandgeeks/ontologies/freaksandgeeks.owl/FREAKSANDGEEKS0000240"/>
+        <rdfs:comment xml:lang="en">“Judd Apatow was born on December 6, 1967 in Syosset, New York, USA. He is a producer and writer, known for Girls (2012), The 40-Year-Old Virgin (2005) and Knocked Up (2007). He has been married to Leslie Mann since June 9, 1997. They have two children.” (para. 3, 2018)</rdfs:comment>
+        <rdfs:isDefinedBy xml:lang="en">IMDb: http://www.imdb.com/name/nm0031976/bio?ref_=nm_ov_bio_sm</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">Apatow,Judd</rdfs:label>
     </owl:Class>
     
 
